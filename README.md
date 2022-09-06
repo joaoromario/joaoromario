@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaoromario
 - 👀 I’m interested in Language exchange, coding, series, digital marketing, reading and learning 🤓
-- 🌱 I’m currently learning HTML.
+- 🌱 I’m currently learning HTML and CSS.
 - 📫 How to reach me: <a href="http://instagram.com/joaoromario" target="_blank"> @joaoromario </a> or on <a href="https://t.me/joaoromario" target="_blank"> telegram</a>
 
 <!---
