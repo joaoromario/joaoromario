@@ -60,7 +60,7 @@
 </p>
 
 <h3 style="text-align: left">Languages and Tools:</h3>
-<ul style="display: flex; gap: 10px; padding: 0">
+<ul style="display: flex; gap: 10; padding: 0; list-style-type: none">
   <li style="display: inline-flex">
     <a href="https://bulma.io/" target="_blank" rel="noreferrer">
       <img
