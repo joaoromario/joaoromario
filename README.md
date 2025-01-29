@@ -60,7 +60,8 @@
 </p>
 
 <h3 style="text-align: left">Languages and Tools:</h3>
-  <p style="display: inline-flex">
+<div style="display: flex; gap: 10px">
+  <p>
     <a href="https://bulma.io/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg"
@@ -70,7 +71,7 @@
       />
     </a>
   </p>
-  <p style="display: inline-flex">
+  <p>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -80,7 +81,7 @@
       />
     </a>
   </p>
-  <p style="display: inline-flex">
+  <p>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -90,7 +91,7 @@
       />
     </a>
   </p>
-  <p style="display: inline-flex">
+  <p>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -100,7 +101,7 @@
       />
     </a>
   </p>
-  <p style="display: inline-flex">
+  <p>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -110,7 +111,7 @@
       />
     </a>
   </p>
-  <p style="display: inline-flex">
+  <p>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -120,7 +121,7 @@
       />
     </a>
   </p>
-  <p style="display: inline-flex">
+  <p>
     <a
       href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
       target="_blank"
@@ -134,7 +135,7 @@
       />
     </a>
   </p>
-  <p style="display: inline-flex">
+  <p>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -144,7 +145,7 @@
       />
     </a>
   </p>
-  <p style="display: inline-flex">
+  <p>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -154,7 +155,7 @@
       />
     </a>
   </p>
-  <p style="display: inline-flex">
+  <p>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
       <img
         src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
@@ -164,7 +165,7 @@
       />
     </a>
   </p>
-  <p style="display: inline-flex">
+  <p>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -174,7 +175,7 @@
       />
     </a>
   </p>
-  <p style="display: inline-flex">
+  <p>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -184,7 +185,7 @@
       />
     </a>
   </p>
-  <p style="display: inline-flex">
+  <p>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -194,7 +195,7 @@
       />
     </a>
   </p>
-  <p style="display: inline-flex">
+  <p>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -204,7 +205,7 @@
       />
     </a>
   </p>
-  <p style="display: inline-flex">
+  <p>
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -214,7 +215,7 @@
       />
     </a>
   </p>
-  <p style="display: inline-flex">
+  <p>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -224,7 +225,7 @@
       />
     </a>
   </p>
-  <p style="display: inline-flex">
+  <p>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -234,4 +235,4 @@
       />
     </a>
   </p>
-</ul>
+</div>
